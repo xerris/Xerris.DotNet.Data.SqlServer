@@ -1,4 +1,4 @@
-name: Publish Xerris.DotNet.Data.PostgreSQL
+name: Publish Xerris.DotNet.Data.SqlServer
 
 on:
   pull_request:
