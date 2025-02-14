@@ -1,1 +1,1 @@
-# Xerris.DotNet.Data.MSSql
+# Xerris.DotNet.Data.SqlServer
